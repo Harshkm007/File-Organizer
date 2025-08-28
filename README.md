@@ -21,4 +21,4 @@ Organizes files in a selected folder into subfolders like:
 - before.png – before organizing
 - after.png – after organizing
 
-## 👩‍💻 Author: Geetha
+## 👩‍💻 Author: Harsh
